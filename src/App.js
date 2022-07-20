@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <div className="title-page">
-        <h1>You are Boring of writing tdext ?!!</h1>
+        <h1>You are Boring of writing text ?!!</h1>
       </div>
       <form onSubmit={handleSumbit}>
         <label htmlFor="amount">Paragraphs</label>
